@@ -9,7 +9,7 @@ display: block;
 width: 148px;
 height: 105px;
 }
-.header__logo-image{
+.header__logo-image {
 display: block;
 height: 100%;
 object-fit: contain;
@@ -23,7 +23,7 @@ font-size: 18px;
 .header__links-list-item_no-bullit {
 list-style: none;
 }
-.header-link { 
+.header__link { 
 text-underline-offset: 4px;
 }
 .address {
@@ -72,7 +72,7 @@ margin-right: -30px;
 position: relative;
 z-index: 1;
 display: flex;
-justify-content: space-betwen;
+justify-content: space-between;
 align-items: center;
 gap: 30px;
 margin-top: 106px;
@@ -81,7 +81,7 @@ margin-top: 106px;
 margin: 180px 24px 0;
 }
 .lots__heading {
-margin: 0  0 27px 40px;
+margin: 0 0 27px 40px;
 font-size: 40px; 
 line-height: 1.175;
 text-transform: uppercase;
