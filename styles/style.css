@@ -23,7 +23,7 @@ font-size: 18px;
 .header__links-list-item_no-bullit {
 list-style: none;
 }
-.header__link { 
+.header__link {
 text-underline-offset: 4px;
 }
 .address {
@@ -82,7 +82,7 @@ margin: 180px 24px 0;
 }
 .lots__heading {
 margin: 0 0 27px 40px;
-font-size: 40px; 
+font-size: 40px;
 line-height: 1.175;
 text-transform: uppercase;
 }
